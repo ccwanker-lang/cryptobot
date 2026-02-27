@@ -1,2 +1,16 @@
 2026-02-27 23:27:06,596 - INFO - Bot gestart!
 2026-02-27 23:35:29,714 - INFO - Bot gestart!
+2026-02-27 23:54:19,222 - INFO - Bot gestart!
+2026-02-28 00:05:02,690 - INFO - Bot gestart!
+2026-02-28 00:05:03,317 - ERROR - Fout: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:05:13,590 - ERROR - Fout: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:05:23,875 - ERROR - Fout: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:08:52,387 - INFO - Bot gestart!
+2026-02-28 00:08:53,005 - ERROR - Fout: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:10:12,066 - INFO - Bot gestart!
+2026-02-28 00:10:12,683 - ERROR - Fout bij ophalen ticker: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:11:00,011 - INFO - Bot gestart!
+2026-02-28 00:11:03,145 - ERROR - Fout bij ophalen ticker: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:11:14,031 - INFO - Bot gestart!
+2026-02-28 00:11:15,917 - ERROR - Fout bij ophalen ticker: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-02-28 00:11:27,128 - ERROR - Fout bij ophalen ticker: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
